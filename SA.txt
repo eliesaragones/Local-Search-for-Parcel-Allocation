@@ -1,0 +1,224 @@
+
+K: 1 Lambda: 0.0001 434.1900000000017 temps 42498.044766500001
+K: 1 Lambda: 0.01 435.12 temps 396.85327979997965
+K: 1 Lambda: 1 439.88500000000005 temps 1.2516173000331037
+
+
+K: 5 Lambda: 0.0001 433.98 temps 1277.1657419999829
+K: 5 Lambda: 0.01 435.29500000000013 temps 163.31392860005144
+K: 5 Lambda: 1 435.5000000000001 temps 1.488214600016363
+
+
+K: 25 Lambda: 0.0001 434.1000000000001 temps 1210.7710739999893
+K: 25 Lambda: 0.01 434.81000000000006 temps 169.84223270002985
+K: 25 Lambda: 1 435.27000000000015 temps 1.3289097000379115
+
+
+K: 125 Lambda: 0.0001 433.755 temps 1201.9080096999533
+K: 125 Lambda: 0.01 434.96000000000015 temps 165.62302479997743
+K: 125 Lambda: 1 444.735 temps 1.3738226999994367
+
+
+-----------------------------------------------------------------
+seed 1234
+
+limit = 200000
+
+K: 1 Lambda: 0.001 435.05 temps 442.00
+K: 1 Lambda: 0.01 435.67 temps 148.82
+K: 1 Lambda: 1 436.11 temps 1.37
+
+K: 5 Lambda: 0.001 433.98 temps 500.84
+K: 5 Lambda: 0.01 435.12 temps 163.31
+K: 5 Lambda: 1 435.61 temps 1.45
+
+K: 25 Lambda: 0.001 433.76 temps 570.2
+K: 25 Lambda: 0.01 434.5 temps 160.7
+K: 25 Lambda: 1 434.76 temps 1.39
+
+K: 125 Lambda: 0.001 434.28 temps 677.91
+K: 125 Lambda: 0.01 434.59 temps 166.14
+K: 125 Lambda: 1 435.13 temps 1.39
+
+limit = 300000
+
+K: 1 Lambda: 0.001 434.55 temps 662.15
+K: 1 Lambda: 0.01 435.33 temps 169.97
+K: 1 Lambda: 1 435.81 temps 1.34
+
+K: 5 Lambda: 0.001 434.53 temps 748.82
+K: 5 Lambda: 0.01 435.44 temps 155.98
+K: 5 Lambda: 1 436.61 temps 1.39
+
+K: 25 Lambda: 0.001 433.93 temps 923.4
+K: 25 Lambda: 0.01 435.0 temps 180.72
+K: 25 Lambda: 1 435.1 temps 1.61
+
+K: 125 Lambda: 0.001 433.89 temps 1115.62
+K: 125 Lambda: 0.01 435.13 temps 177.54
+K: 125 Lambda: 1 437.7 temps 1.63
+---------------------------------------------------------
+seed 5678
+
+K: 1 Lambda: 0.001 490.08 temps 128.02
+K: 1 Lambda: 0.01 491.43 temps 54.25
+K: 1 Lambda: 1 491.32 temps 0.7
+
+K: 5 Lambda: 0.001 490.2 temps 142.54
+K: 5 Lambda: 0.01 490.71 temps 51.49
+K: 5 Lambda: 1 491.03 temps 0.54
+
+K: 25 Lambda: 0.001 490.62 temps 159.99
+K: 25 Lambda: 0.01 491.87 temps 53.96
+K: 25 Lambda: 1 492.83 temps 0.62
+
+----------------------------------------------------------------------
+
+-----------Iteración  1 semilla 1234-------------
+
+K: 1 , Lambda: 0.001 , Coste: 434.17 , Temps: 646.72
+K: 1 , Lambda: 0.01 , Coste: 434.34 , Temps: 151.48
+K: 1 , Lambda: 1 , Coste: 435.38 , Temps: 1.45
+
+K: 5 , Lambda: 0.001 , Coste: 434.25 , Temps: 751.11
+K: 5 , Lambda: 0.01 , Coste: 435.15 , Temps: 158.75
+K: 5 , Lambda: 1 , Coste: 437.99 , Temps: 1.42
+
+K: 25 , Lambda: 0.001 , Coste: 434.16 , Temps: 871.19
+K: 25 , Lambda: 0.01 , Coste: 435.43 , Temps: 166.45
+K: 25 , Lambda: 1 , Coste: 435.08 , Temps: 1.48
+
+K: 125 , Lambda: 0.001 , Coste: 434.07 , Temps: 979.57
+K: 125 , Lambda: 0.01 , Coste: 434.79 , Temps: 170.27
+K: 125 , Lambda: 1 , Coste: 435.83 , Temps: 1.6
+
+-----------Iteración  2 semilla 1234-------------
+
+K: 1 , Lambda: 0.001 , Coste: 434.87 , Temps: 657.39
+K: 1 , Lambda: 0.01 , Coste: 435.15 , Temps: 153.04
+K: 1 , Lambda: 1 , Coste: 438.07 , Temps: 1.47
+
+K: 5 , Lambda: 0.001 , Coste: 434.07 , Temps: 733.69
+K: 5 , Lambda: 0.01 , Coste: 434.75 , Temps: 160.64
+K: 5 , Lambda: 1 , Coste: 435.13 , Temps: 1.48
+
+K: 25 , Lambda: 0.001 , Coste: 434.42 , Temps: 877.65
+K: 25 , Lambda: 0.01 , Coste: 434.62 , Temps: 162.46
+K: 25 , Lambda: 1 , Coste: 434.81 , Temps: 1.44
+
+K: 125 , Lambda: 0.001 , Coste: 434.63 , Temps: 991.2
+K: 125 , Lambda: 0.01 , Coste: 435.57 , Temps: 181.76
+K: 125 , Lambda: 1 , Coste: 436.06 , Temps: 1.38
+
+-----------Iteración  3 semilla 1234-------------
+
+K: 1 , Lambda: 0.001 , Coste: 433.95 , Temps: 655.24
+K: 1 , Lambda: 0.01 , Coste: 434.45 , Temps: 156.6
+K: 1 , Lambda: 1 , Coste: 439.76 , Temps: 1.31
+
+K: 5 , Lambda: 0.001 , Coste: 434.09 , Temps: 751.69
+K: 5 , Lambda: 0.01 , Coste: 435.14 , Temps: 162.13
+K: 5 , Lambda: 1 , Coste: 436.01 , Temps: 1.51
+
+K: 25 , Lambda: 0.001 , Coste: 434.0 , Temps: 856.01
+K: 25 , Lambda: 0.01 , Coste: 434.5 , Temps: 162.69
+K: 25 , Lambda: 1 , Coste: 441.04 , Temps: 1.56
+
+K: 125 , Lambda: 0.001 , Coste: 434.44 , Temps: 1013.61
+K: 125 , Lambda: 0.01 , Coste: 435.79 , Temps: 174.32
+K: 125 , Lambda: 1 , Coste: 436.14 , Temps: 1.44
+
+-----------Iteración  4 semilla 1234-------------
+
+K: 1 , Lambda: 0.001 , Coste: 434.21 , Temps: 658.81
+K: 1 , Lambda: 0.01 , Coste: 435.06 , Temps: 155.75
+K: 1 , Lambda: 1 , Coste: 434.5 , Temps: 1.35
+
+K: 5 , Lambda: 0.001 , Coste: 434.28 , Temps: 738.41
+K: 5 , Lambda: 0.01 , Coste: 435.08 , Temps: 157.47
+K: 5 , Lambda: 1 , Coste: 435.03 , Temps: 1.44
+
+K: 25 , Lambda: 0.001 , Coste: 434.25 , Temps: 852.3
+K: 25 , Lambda: 0.01 , Coste: 434.64 , Temps: 164.15
+K: 25 , Lambda: 1 , Coste: 434.94 , Temps: 1.38
+
+K: 125 , Lambda: 0.001 , Coste: 434.3 , Temps: 1013.16
+K: 125 , Lambda: 0.01 , Coste: 434.25 , Temps: 164.21
+K: 125 , Lambda: 1 , Coste: 435.5 , Temps: 1.38
+
+-----------Iteración  1 semilla 5678-------------
+
+K: 1 , Lambda: 0.001 , Coste: 490.57 , Temps: 195.29
+K: 1 , Lambda: 0.01 , Coste: 489.31 , Temps: 45.12
+K: 1 , Lambda: 1 , Coste: 491.35 , Temps: 0.63
+
+K: 5 , Lambda: 0.001 , Coste: 491.28 , Temps: 219.51
+K: 5 , Lambda: 0.01 , Coste: 491.83 , Temps: 64.1
+K: 5 , Lambda: 1 , Coste: 492.3 , Temps: 0.64
+
+K: 25 , Lambda: 0.001 , Coste: 493.35 , Temps: 334.96
+K: 25 , Lambda: 0.01 , Coste: 493.86 , Temps: 67.29
+K: 25 , Lambda: 1 , Coste: 492.82 , Temps: 0.63
+
+K: 125 , Lambda: 0.001 , Coste: 489.59 , Temps: 251.65
+K: 125 , Lambda: 0.01 , Coste: 489.57 , Temps: 48.44
+K: 125 , Lambda: 1 , Coste: 491.23 , Temps: 0.54
+
+-----------Iteración  2 semilla 5678-------------
+
+K: 1 , Lambda: 0.001 , Coste: 492.49 , Temps: 205.68
+K: 1 , Lambda: 0.01 , Coste: 491.75 , Temps: 53.62
+K: 1 , Lambda: 1 , Coste: 491.11 , Temps: 0.5
+
+K: 5 , Lambda: 0.001 , Coste: 489.85 , Temps: 202.52
+K: 5 , Lambda: 0.01 , Coste: 493.83 , Temps: 64.37
+K: 5 , Lambda: 1 , Coste: 492.14 , Temps: 0.57
+
+K: 25 , Lambda: 0.001 , Coste: 489.28 , Temps: 238.82
+K: 25 , Lambda: 0.01 , Coste: 496.05 , Temps: 75.78
+K: 25 , Lambda: 1 , Coste: 491.58 , Temps: 0.58
+
+K: 125 , Lambda: 0.001 , Coste: 489.53 , Temps: 245.64
+K: 125 , Lambda: 0.01 , Coste: 489.3 , Temps: 48.32
+K: 125 , Lambda: 1 , Coste: 492.29 , Temps: 0.64
+
+-----------Iteración  3 semilla 5678-------------
+
+K: 1 , Lambda: 0.001 , Coste: 489.29 , Temps: 187.48
+K: 1 , Lambda: 0.01 , Coste: 489.4 , Temps: 46.34
+K: 1 , Lambda: 1 , Coste: 492.6 , Temps: 0.55
+
+K: 5 , Lambda: 0.001 , Coste: 492.23 , Temps: 220.43
+K: 5 , Lambda: 0.01 , Coste: 494.72 , Temps: 68.26
+K: 5 , Lambda: 1 , Coste: 493.0 , Temps: 0.65
+
+K: 25 , Lambda: 0.001 , Coste: 490.2 , Temps: 238.18
+K: 25 , Lambda: 0.01 , Coste: 494.37 , Temps: 67.62
+K: 25 , Lambda: 1 , Coste: 492.04 , Temps: 0.62
+
+K: 125 , Lambda: 0.001 , Coste: 493.01 , Temps: 289.02
+K: 125 , Lambda: 0.01 , Coste: 494.08 , Temps: 70.59
+K: 125 , Lambda: 1 , Coste: 491.94 , Temps: 0.6
+
+-----------Iteración  4 semilla 5678-------------
+
+K: 1 , Lambda: 0.001 , Coste: 489.25 , Temps: 181.79
+K: 1 , Lambda: 0.01 , Coste: 492.19 , Temps: 55.19
+K: 1 , Lambda: 1 , Coste: 492.38 , Temps: 0.56
+
+K: 5 , Lambda: 0.001 , Coste: 489.07 , Temps: 203.21
+K: 5 , Lambda: 0.01 , Coste: 492.06 , Temps: 56.09
+K: 5 , Lambda: 1 , Coste: 490.32 , Temps: 0.58
+
+K: 25 , Lambda: 0.001 , Coste: 489.41 , Temps: 234.4
+K: 25 , Lambda: 0.01 , Coste: 491.94 , Temps: 53.99
+K: 25 , Lambda: 1 , Coste: 493.79 , Temps: 0.63
+
+K: 125 , Lambda: 0.001 , Coste: 491.74 , Temps: 283.11
+K: 125 , Lambda: 0.01 , Coste: 491.34 , Temps: 52.61
+K: 125 , Lambda: 1 , Coste: 491.24 , Temps: 0.57
+
+
+K: 125 Lambda: 0.001 490.32 temps 174.48
+K: 125 Lambda: 0.01 494.85 temps 74.03
+K: 125 Lambda: 1 489.66 temps 0.53
